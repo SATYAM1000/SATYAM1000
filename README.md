@@ -1,12 +1,9 @@
 ### Hi, I'm Satyam ⚡
 
-Software engineer at [Figr](https://app.figr.design) in Bengaluru — building payment systems,
-media pipelines, and AI-powered design tools. I believe the gap between a demo and a product
-is a hundred boring details, and I genuinely enjoy the boring details.
+Full-stack developer from Bengaluru. I enjoy building things end to end —
+frontend, backend, and everything in between — and shipping them for real people to use.
 
 - 🌐 everything I do lives at **[satyamx.in](https://satyamx.in)**
-- ✍️ I write about networking, DSA, and building products → [satyamx.in/blog](https://satyamx.in/blog)
-- 🔖 snippets I keep coming back to → [satyamx.in/saves](https://satyamx.in/saves)
 - 📫 reach me: [satyam.scoe@gmail.com](mailto:satyam.scoe@gmail.com) · [LinkedIn](https://www.linkedin.com/in/satyamx55/) · [X](https://x.com/SatyamKuma33296)
 
 #### Things I've shipped
@@ -22,6 +19,4 @@ is a hundred boring details, and I genuinely enjoy the boring details.
 
 TypeScript · React / Next.js · Node.js · PostgreSQL / MongoDB / Redis · AWS (S3, Lambda, EC2)
 
-<picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATYAM1000&theme=dark&hide_border=true&layout=compact" alt="Top languages" />
-</picture>
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SATYAM1000&theme=dark&hide_border=true&layout=compact)
