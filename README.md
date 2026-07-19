@@ -10,6 +10,7 @@ frontend, backend, and everything in between — and shipping them for real peop
 
 | | |
 |---|---|
+| [**Figr AI**](https://app.figr.design) | The product I build every day — an AI design canvas, taken from beta to public launch |
 | [**Figr Identity**](https://www.figma.com/community/plugin/1350743748296105581/figr-identity-generate-design-systems-with-ai) | Figma plugin for generating design systems with AI — **120k+ downloads** |
 | [**Project Nexus**](https://www.figma.com/community/plugin/1436671878120673170/project-nexus-by-figr) | Audits an entire Figma file for design-token health, batch-processing every node |
 | [**Trading Journal**](https://journal.satyamx.in) | A private journal for every trading day — P&L calendar, chart screenshots, mistake tags ([source](https://github.com/SATYAM1000/trading-journal)) |
@@ -18,5 +19,3 @@ frontend, backend, and everything in between — and shipping them for real peop
 #### Daily tools
 
 TypeScript · React / Next.js · Node.js · PostgreSQL / MongoDB / Redis · AWS (S3, Lambda, EC2)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SATYAM1000&theme=dark&hide_border=true&layout=compact)
